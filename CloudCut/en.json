@@ -41,7 +41,7 @@
         "License": "License",
         "Delete": "Delate User"
     },
-    "UserFormat": "All data in this user will be deleted.",
+    "UserFormat": "If this operation is performed, all data in the user will be deleted.",
     "SelectLang": "Select Language",
     "NoNew": "TeraCut is up to date.",
     "NewVersion": "Update found",
