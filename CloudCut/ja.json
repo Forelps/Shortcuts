@@ -1,1 +1,50 @@
-{}
+{
+    "Login": {
+        "User": "ユーザ名を入力してください（新規作成もできます）",
+        "NotFound": "ユーザが見つかりませんでした",
+        "Create": "ユーザを新規作成",
+        "Re-enter": "再入力"
+    },
+    "Main": {
+        "Download": "ファイルをダウンロード",
+        "Upload": "ファイルをアップロード",
+        "Settings": "設定"
+    },
+    "DLMenu": {
+        "Share": "共有",
+        "Delete": "削除"
+    },
+    "DeleteMenu": {
+        "Prompt": "この項目は全てのデバイスからすぐに削除されます。この操作は取り消しができません。",
+        "Cansell": "キャンセル",
+        "Delete": "削除"
+    },
+    "Broken": "このファイルは壊れています",
+    "UploadMenu": {
+        "Photo": "写真を撮る",
+        "Video": "ビデオを撮る",
+        "Library": "フォトライブラリ",
+        "Browse": "ブラウズ"
+    },
+    "DTMenu": {
+        "Input": "IDを入力",
+        "Make": "IDを作成"
+    },
+    "InputID": {
+        "Format": "IDを入力してデータを引き継いだ場合、ユーザ内にあるデータは全て削除されます。",
+        "ID": "IDを入力"
+    },
+    "Settings": {
+        "Update": "アップデート",
+        "Lang": "言語",
+        "Trans": "データ移行",
+        "License": "ライセンス",
+        "Delete": "ユーザを削除"
+    },
+    "UserFormat": "この操作を実行した場合、ユーザ内にあるデータは全て削除されます。",
+    "SelectLang": "言語を選択",
+    "NoNew": "TeraCutは最新です。",
+    "NewVersion": "アップデートが見つかりました。",
+    "iOSVer": "このデバイス用のTeraCutをインストールしてください。",
+    "NotSup": "TeraCutはこのデバイスではサポートされていません。"
+}
