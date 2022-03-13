@@ -1,1 +1,50 @@
-{}
+{
+    "Login": {
+        "User": "Input User Name (You can also create a new one.)",
+        "NotFound": "The user is not found",
+        "Create": "Create a new one named the username",
+        "Re-enter": "Re-enter"
+    },
+    "Main": {
+        "Download": "Download File",
+        "Upload": "Upload File",
+        "Settings": "Settings"
+    },
+    "DLMenu": {
+        "Share": "Share",
+        "Delete": "Delete"
+    },
+    "DeleteMenu": {
+        "Prompt": "This item will be deleted immediately from all your devices. You cannot undo this action.",
+        "Cansell": "Cansell",
+        "Delete": "Delete"
+    },
+    "Broken": "This file is broken.",
+    "UploadMenu": {
+        "Photo": "Take Photo",
+        "Video": "Take Video",
+        "Library": "Photo Library",
+        "Browse": "Browse"
+    },
+    "DTMenu": {
+        "Input": "Input ID",
+        "Make": "Make ID"
+    },
+    "InputID": {
+        "Format": "When you enter your ID and transfer data, all data in this user will be deleted.",
+        "ID": "Input ID"
+    },
+    "Settings": {
+        "Update": "Update",
+        "Lang": "Language",
+        "Trans": "Data Transfer",
+        "License": "License",
+        "Delete": "Delate User"
+    },
+    "UserFormat": "All data in this user will be deleted.",
+    "SelectLang": "Select Language",
+    "NoNew": "TeraCut is up to date.",
+    "NewVersion": "Update found",
+    "iOSVer": "Install TeraCut for this device.",
+    "NotSup": "CloudCut is not supported on this device."
+}
